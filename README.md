@@ -1,5 +1,7 @@
 # 💫 About Me:
-# Hi there, I'm Aman Jangid 👋 <br>###  Aspiring Agentic AI Engineer & Frontend Developer<br>I am a Frontend Developer and Computer Applications student specializing in **AI & IoT**, focused on bridging modern frontend engineering with **Agentic AI workflows** and **AI-powered web applications**. <br><br>I enjoy building performant, production-ready applications with clean architecture, intuitive user interfaces, and structured agentic systems.
+# Hi there, I'm Aman Jangid 👋 <br>## Aspiring Agentic AI Engineer & Frontend Developer<br>
+I am a Frontend Developer and Computer Applications student specializing in **AI & IoT**, focused on bridging modern frontend engineering with **Agentic AI workflows** and **AI-powered web applications**. <br><br>
+I enjoy building performant, production-ready applications with clean architecture, intuitive user interfaces, and structured agentic systems.
 
 
 ## 🌐 Socials:
